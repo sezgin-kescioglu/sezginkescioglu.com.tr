@@ -37,7 +37,7 @@ function UnderConstruction(props) {
 
                                         <button type="submit" className="btn btn-primary">Subscribe</button>
 
-                                        <p>And don’t worry, we hate spam too! You can unsubcribe at anytime.</p>
+                                        <p>For getting latest technology news, subscribe to us.</p>
                                     </form>
 
                                     <div className="social">
