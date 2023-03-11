@@ -16,10 +16,10 @@ function UnderConstruction(props) {
                             <div className="d-table">
                                 <div className="d-table-cell">
                                     <div className="logo black-logo">
-                                        <img src="assets/img/logo/logo-green.png" alt="logo" style={{height: "75px"}}/>
+                                        <img src="assets/img/logo/logo-green.PNG" alt="logo" style={{height: "75px"}}/>
                                     </div>
                                     <div className="logo white-logo">
-                                        <img src="assets/img/logo/logo-green.png" alt="logo" style={{height: "75px"}}/>
+                                        <img src="assets/img/logo/logo-green.PNG" alt="logo" style={{height: "75px"}}/>
                                     </div>
 
                                     <h3>Our website is Coming Soon, follow us for update now!</h3>
