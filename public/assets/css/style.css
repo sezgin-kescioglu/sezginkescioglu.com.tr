@@ -623,6 +623,10 @@ Navbar Area CSS
   padding-bottom: 0;
 }
 
+.navbar-brand img {
+  height: 65px;
+}
+
 .evolta-nav {
   background-color: transparent;
   padding-top: 15px;
@@ -1171,7 +1175,7 @@ Main Banner Area CSS
   height: 100%;
   position: relative;
   text-align: center;
-  background-image: url(../img/banner-img1.jpg);
+  background-image: url(../img/cloud/cloud-computing.PNG);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -2480,6 +2484,10 @@ Partner Area CSS
   margin-left: -15px;
 }
 
+.partner-list img {
+  max-width: 75%;
+}
+
 .partner-list .partner-item {
   -ms-flex: 0 0 16.6666666667%;
   -webkit-box-flex: 0;
@@ -2489,8 +2497,8 @@ Partner Area CSS
   margin-bottom: 40px;
   position: relative;
   overflow: hidden;
-  padding-left: 15px;
-  padding-right: 15px;
+  margin-left: 15px;
+  /*padding-right: 15px;*/
 }
 
 .partner-list .partner-item a:nth-child(2) {
@@ -6385,6 +6393,7 @@ Go Top CSS
           transform: translateY(-98%);
   opacity: 1;
   visibility: visible;
+  border-radius: 50px;
 }
 
 .go-top i {
